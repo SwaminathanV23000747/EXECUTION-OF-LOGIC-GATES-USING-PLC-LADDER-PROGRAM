@@ -1,10 +1,10 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
+ # NAME :SWAMINATHAN.V
+ # REGISTER NUMBER :212223110057
+ # DEPARTMENT :IOT
+ # YEAR : II
 
  
 # Aim:
@@ -48,8 +48,11 @@ XOR Gate:
 
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
+
 # Truth Tables:
- 
+ ![sRiXCb1tWOHWn4dPBAVu](https://github.com/user-attachments/assets/1a9471f9-ab57-47ae-b3d3-ba6701909a0a)
+
+
 # Procedure:
 Setup the PLC Programming Environment:
 
@@ -80,8 +83,23 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 # SIMULATION RESULTS 
 
+AND GATE:
+![Screenshot 2025-02-21 164642](https://github.com/user-attachments/assets/50ee9c62-1067-4a25-8ffa-e13c8bc57d66)
 
-#Results:
+OR GATE:
+![Screenshot 2025-02-21 164608](https://github.com/user-attachments/assets/7965831f-ff6f-465c-ae54-205ed67aea52)
+
+NAND GATE:
+![Screenshot 2025-02-21 165728](https://github.com/user-attachments/assets/e31c63c9-11aa-498c-8c74-fe5545ca648e)
+
+NOR GATE:
+![Screenshot 2025-02-27 171222](https://github.com/user-attachments/assets/72d820cb-5743-4a5a-aa61-3a689664aa31)
+
+XOR GATE:
+![Screenshot 2025-02-21 165634](https://github.com/user-attachments/assets/75daa948-4d69-46d4-9c4c-cfa3aafa5f9d)
+
+
+# Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
 This experiment demonstrates the effective use of PLCs in executing digital logic operations, which are fundamental to industrial control systems.
